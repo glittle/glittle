@@ -4,7 +4,7 @@ I've watched the Internet be born and grow up.
 
 Today I'm building bespoke web apps. 
 
-Keenly interested in civilization's advance and how Baha'i principles apply.
+Keenly interested in civilization's advance and how  Bahá'í principles apply.
 
 If you'd like assistance with your coding project or problems look up me up Codementor...
 
