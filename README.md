@@ -6,7 +6,7 @@ Today I'm building bespoke web apps.
 
 Keenly interested in civilization's advance and how Baha'i principles apply.
 
-If you'd like assistance with your coding project or problems look up me up Codementor:  
+If you'd like assistance with your coding project or problems look up me up Codementor...
 [![Glen Little](https://www.codementor.io/m-badges/glenlittle/im-a-cm-b.svg)](https://www.codementor.io/@glenlittle?refer=badge)
 
 <!--
